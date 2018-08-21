@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="98864" started-at="2018-08-22T00:44:28Z" finished-at="2018-08-22T00:46:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="98864" started-at="2018-08-22T00:44:28Z" finished-at="2018-08-22T00:46:07Z">
+      <class name="com.qa.NewZealandSite.LoginModule">
+        <test-method status="PASS" signature="OpeningBroswer()" name="OpeningBroswer" is-config="true" duration-ms="87224" started-at="2018-08-22T00:44:28Z" finished-at="2018-08-22T00:45:55Z">
+        </test-method>
+        <test-method status="PASS" signature="Login()" name="Login" duration-ms="8814" started-at="2018-08-22T00:45:55Z" finished-at="2018-08-22T00:46:04Z">
+        </test-method>
+        <test-method status="PASS" signature="ClosingBrowser()" name="ClosingBrowser" is-config="true" duration-ms="2813" started-at="2018-08-22T00:46:04Z" finished-at="2018-08-22T00:46:07Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

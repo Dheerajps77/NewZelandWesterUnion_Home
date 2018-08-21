@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Rahul07" name="com.qa.NewZealandSite.LoginModule" tests="1" failures="0" timestamp="21 Aug 2018 19:16:07 GMT" time="98.864" errors="0">
+  <testcase name="Login" time="8.814" classname="com.qa.NewZealandSite.LoginModule"/>
+</testsuite>
